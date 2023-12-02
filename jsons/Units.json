@@ -18,6 +18,7 @@
 		"name": "Поселенцы Манулы",
 		"unitType": "Civilian",
 		"uniqueTo": "Manuls RePublic",
+		"replaces": "Settler",
 		"movement": 3,
 		"cost": 80,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
