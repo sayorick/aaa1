@@ -21,6 +21,8 @@
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 80,
-		"uniques": ["Манулы идут захватывать города"]
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
 	},
 ]
