@@ -13,5 +13,15 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Поселенцы Манулы",
+		"unitType": "Civilian",
+		"uniqueTo": "Manuls RePublic",
+		"movement": 3,
+		"cost": 80,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
 ]
