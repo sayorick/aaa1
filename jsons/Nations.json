@@ -2,8 +2,8 @@
 	{
 		"name": "Manuls RePublic",
 		"leaderName": "Mana Re.",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"adjective": ["Manuls"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
