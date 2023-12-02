@@ -17,7 +17,7 @@
 	{
 		"name": "Поселенцы Манулы",
 		"unitType": "Civilian",
-		"uniqueTo": "Manuls RePublic1",
+		"uniqueTo": "Manuls RePublic",
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 80,
