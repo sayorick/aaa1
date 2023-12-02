@@ -15,7 +15,7 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Поселенцы Манулы",
+		"name": "Manul Settler",
 		"unitType": "Civilian",
 		"uniqueTo": "Manuls RePublic",
 		"replaces": "Settler",
