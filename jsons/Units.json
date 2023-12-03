@@ -35,7 +35,7 @@
 	{
 		"name": "Котик с дубинкой",
 		"unitType": "Sword",
-                "uniqueTo": "КНСР"
+                "uniqueTo": "КНСР",
                 "replaces": "Warrior",
 		"movement": 3,
 		"strength": 12,
@@ -115,7 +115,7 @@
 		"name": "Кошачья пехота",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
-		"uniqueTo": "КНСР"
+		"uniqueTo": "КНСР",
 		"movement": 2,
 		"strength": 25,
 		"cost": 140,
@@ -128,7 +128,7 @@
 		"name": "Котик с пулемётом",
 		"unitType": "Ranged Gunpowder",
 		"replaces": "Machine Gun",
-		"uniqueTo": "КНСР"
+		"uniqueTo": "КНСР",
 		"range": 2,
 		"movement": 2,
 		"strength": 75,
@@ -139,14 +139,16 @@
 		"attackSound": "machinegun"
 	},
         {
-		"name": "Marine",
+		"name": "МорКотик",
 		"unitType": "Gunpowder",
+		"replaces": "Marine",
+		"uniqueTo": "КНСР",
 		"movement": 3,
 		"strength": 52,
 		"cost": 270,
 		"requiredTech": "Pharmaceuticals",
 		"promotions": ["Amphibious"],
-		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"uniques": ["Can move after attacking", "[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
 	}
 ]
