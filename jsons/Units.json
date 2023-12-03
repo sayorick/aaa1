@@ -76,5 +76,18 @@
 		"requiredResource": "Iron",
 		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "Manuls Great Infantry",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Manuls RePublic",
+		"movement": 3,
+		"strength": 35,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
 	}
 ]
