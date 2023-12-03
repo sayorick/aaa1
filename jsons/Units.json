@@ -289,5 +289,64 @@
 		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
                 "attackSound": "shipguns"
-	}	
+	},
+	{
+		"name": "Сису",
+		"unitType": "Armored",
+		"replaces": "Landship"
+		"uniqueTo": "Северная Республика"
+		"movement": 8,
+		"strength": 30,
+		"cost": 300,
+		"requiredTech": "Combustion",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Лыжник с ПП",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Machine Gun"
+		"uniqueTo": "Северная Республика"
+		"range": 1,
+		"movement": 5,
+		"strength": 40,
+		"rangedStrength": 60,
+		"cost": 300,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Taistelija",
+		"unitType": "Fighter",
+		"replaces": "Fighter"
+		"uniqueTo": "Северная Республика"
+		"movement": 3,
+		"strength": 45,
+		"rangedStrength": 45,
+		"range": 8,
+		"interceptRange": 8,
+		"cost": 155,
+		"requiredTech": "Radar",
+		"upgradesTo": "Jet Fighter",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>"],
+		"attackSound": "machinegun"
+	},
+        {
+		"name": "Биг бум",
+		"unitType": "Missile",
+                "replaces": "Fighter"
+                "uniqueTo": "Nuclear Missile"
+		"movement": 1,
+		"strength": 300,
+		"rangedStrength": 300,
+		"range": 12,
+		"cost": 500,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [2]", "Consumes [2] [Uranium]"],
+		"attackSound": "nuke"
+	}
 ]
