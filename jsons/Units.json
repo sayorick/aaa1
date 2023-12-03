@@ -49,5 +49,17 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Mana's Simp",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Manuls RePublic",
+		"replaces": "Rifeman",
+		"movement": 3,
+		"strength": 64,
+		"cost": 350,
+		"requiredResource": "Iron",
+		"obsoleteTech": "Replaceable Parts",
+		"attackSound": "gdrAttack"
 	}
 ]
