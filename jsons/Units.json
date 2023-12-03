@@ -70,11 +70,10 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Manuls RePublic",
 		"replaces": "Rifleman",
-		"movement": 3,
-		"strength": 64,
-		"cost": 350,
+		"movement": 2,
+		"strength": 71,
+		"cost": 420,
 		"requiredResource": "Iron",
-		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "gdrAttack"
 	},
 	{
