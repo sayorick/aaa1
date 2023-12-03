@@ -24,16 +24,24 @@
 		"cost": 40
 	},
 	{
+		"name": "Рабочий Севера",
+		"unitType": "Civilian",
+		"uniqueTo": "Северная Республика"
+		"replaces": "Worker",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 20
+	},
+	{
 		"name": "Кочевник",
 		"unitType": "Scout",
 		"replaces": "Archer",
 		"uniqueTo": "Северная Республика",
 		"movement": 3,
 		"strength": 12,
-		"cost": 40,
+		"cost": 55,
 		"requiredTech": "Trapping",
 		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Ignore terrain cost"],
 		"uniques" : ["[+100]% Strength <vs [Archery] units>", "[+2] Sight"],
