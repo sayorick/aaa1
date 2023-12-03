@@ -15,6 +15,15 @@
 		"attackSound": "phasers"
 	},
 	{
+		"name": "Пролетарий",
+		"unitType": "Civilian",
+		"uniqueTo": "КНСР",
+		"replaces": "Worker",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 40
+	},
+	{
 		"name": "Manul Settler",
 		"unitType": "Civilian",
 		"uniqueTo": "Manuls RePublic",
@@ -22,6 +31,19 @@
 		"movement": 3,
 		"cost": 75,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction"]
+	},
+	{
+		"name": "Котик с дубинкой",
+		"unitType": "Sword",
+                "uniqueTo": "КНСР"
+                "replaces": "Warrior",
+		"movement": 3,
+		"strength": 12,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
 	},
 	{
 		"name": "Manul Guardian",
