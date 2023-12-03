@@ -163,4 +163,17 @@
 		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Народное ополчение",
+		"unitType": "Gunpowder",
+		"replaces": "Landship",
+		"uniqueTo": "КНСР",
+		"movement": 2,
+		"strength": 11,
+		"cost": 80,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	}
 ]
