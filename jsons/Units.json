@@ -24,7 +24,7 @@
 		"cost": 40
 	},
 	{
-		"name": "Manul Settler",
+		"name": "Maнул",
 		"unitType": "Civilian",
 		"uniqueTo": "Manuls RePublic",
 		"replaces": "Settler",
@@ -46,7 +46,7 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
-		"name": "Manul Guardian",
+		"name": "Манулий страж",
 		"unitType": "Mounted",
 		"uniqueTo": "Manuls RePublic",
 		"replaces": "Knight",
@@ -61,7 +61,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Warrior Adventurer",
+		"name": "Наёмный авантюрист",
 		"unitType": "Sword",
 		"replaces": "Swordsman",
 		"uniqueTo": "Manuls RePublic",
@@ -75,7 +75,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Musket Manulian",
+		"name": "Манул с мушкетом",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Manuls RePublic",
 		"replaces": "Musketman",
@@ -88,7 +88,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Mana's Simp",
+		"name": "Симп Маны",
 		"unitType": "Sword",
 		"uniqueTo": "Manuls RePublic",
 		"replaces": "Rifleman",
@@ -99,7 +99,7 @@
 		"attackSound": "gdrAttack"
 	},
 	{
-		"name": "Manuls Great Infantry",
+		"name": "Великий солдат Манул",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Manuls RePublic",
@@ -110,5 +110,17 @@
 		"upgradesTo": "Infantry",
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
-	}
+	},
+	{
+		"name": "Кошачья пехота",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 25,
+		"cost": 140,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
 ]
