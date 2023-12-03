@@ -67,7 +67,7 @@
 	},
 	{
 		"name": "Mana's Simp",
-		"unitType": "Gunpowder",
+		"unitType": "Sword",
 		"uniqueTo": "Manuls RePublic",
 		"replaces": "Rifleman",
 		"movement": 2,
