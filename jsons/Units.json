@@ -38,6 +38,19 @@
 		"attackSound": "horse"
 	},
 	{
+		"name": "Warrior Adventurer",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"movement": 4,
+		"strength": 10,
+		"cost": 50,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Musket Manulian",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Manuls RePublic",
