@@ -137,5 +137,16 @@
 		"requiredTech": "Ballistics",
 		"upgradesTo": "Mechanized Infantry",
 		"attackSound": "machinegun"
+	},
+        {
+		"name": "Marine",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 52,
+		"cost": 270,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
+		"attackSound": "shot"
 	}
 ]
