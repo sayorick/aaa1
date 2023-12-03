@@ -115,6 +115,7 @@
 		"name": "Кошачья пехота",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
+		"uniqueTo": "КНСР"
 		"movement": 2,
 		"strength": 25,
 		"cost": 140,
@@ -123,4 +124,18 @@
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Котик с пулемётом",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Machine Gun",
+		"uniqueTo": "КНСР"
+		"range": 2,
+		"movement": 2,
+		"strength": 75,
+		"rangedStrength": 70,
+		"cost": 310,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+	}
 ]
