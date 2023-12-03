@@ -234,7 +234,7 @@
 	},
 	{
 		"name": "Мана Ренью",
-		"unitType": "Swords",
+		"unitType": "Sword",
 		"replaces": "Modern Armor",
 		"uniqueTo": "Renewal RePublic",
 		"movement": 3,
