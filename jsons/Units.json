@@ -232,4 +232,15 @@
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Мана Ренью",
+		"unitType": "Swords",
+		"replaces": "Modern Armor",
+		"uniqueTo": "Renewal RePublic",
+		"movement": 3,
+		"strength": 200,
+		"cost": 1000,
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "Limited to [1] per Civilization"],
+		"attackSound": "gdrAttack"
+	}
 ]
