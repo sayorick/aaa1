@@ -27,8 +27,8 @@
 		"afterPeace": "Мир будет миром.",
 		"tradeRequest": "Подпишись на Мана Ре!!",
 
-		"outerColor": [0,49,91],
-		"innerColor": [225,67,69],
+		"outerColor": [97,122,206],
+		"innerColor": [44,53,153],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Манульск","Маналэнд","Шайтоград","Рейбург","Синьград","Шерстобития","Госпольск","Кризлинск","Ландыши",
 			"Ян-город","Румянцевск","Зимск","Владиманск","Манькоград","Сугробия","Новошайтск","Жопосранск","Жопохуйск","Хуйжопск",
@@ -64,7 +64,7 @@
 		"tradeRequest": "Мяу.",
 
 		"outerColor": [97,122,206],
-		"innerColor": [44,53,153],
+		"innerColor": [347,40,100],
 		"uniqueName": "Усердный пролетарий",
 		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
