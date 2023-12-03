@@ -215,4 +215,21 @@
 		"uniques" : ["[+25]% Strength <vs [Gunpowder] units>", "[+1] Sight"],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Партизан",
+		"unitType": "Gunpowder",
+		"replaces": "Swordsman",
+		"uniqueTo": "Северная Республика",
+		"movement": 2,
+		"strength": 6,
+		"cost": 100,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"uniques": [
+                        "Can move after attacking", "May enter foreign tiles without open borders",
+			"[+1] Sight", "Unbuildable"],
+		"movement": 4,
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
 ]
