@@ -150,5 +150,17 @@
 		"promotions": ["Amphibious"],
 		"uniques": ["Can move after attacking", "[+1] Sight <when [Embarked]>", "Defense bonus when embarked"],
 		"attackSound": "shot"
-	}
+	},
+	{
+		"name": "БТР",
+		"unitType": "Gunpowder",
+		"replaces": "Mechanized Infantry",
+		"uniqueTo": "КНСР",
+		"movement": 4,
+		"strength": 100,
+		"cost": 385,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 ]
