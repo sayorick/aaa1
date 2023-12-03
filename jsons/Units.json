@@ -36,5 +36,18 @@
 		"upgradesTo": "Cavalry",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Musket Manulian",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Manuls RePublic",
+		"replaces": "Musketman",
+		"movement": 3,
+		"strength": 35,
+		"cost": 180,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
 	}
 ]
