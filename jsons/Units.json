@@ -23,4 +23,19 @@
 		"cost": 75,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction"]
 	},
+	{
+		"name": "Manul Guardian",
+		"unitType": "Mounted",
+		"uniqueTo": "Manuls RePublic",
+		"replaces": "Knight",
+		"movement": 6,
+		"strength": 40,
+		"cost": 150,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	}
 ]
