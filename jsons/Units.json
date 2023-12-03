@@ -24,6 +24,19 @@
 		"cost": 40
 	},
 	{
+		"name": "Кочевник",
+		"unitType": "Scout",
+		"replaces": "Archer",
+		"uniqueTo": "Северная Республика",
+		"movement": 3,
+		"strength": 12,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Ignore terrain cost"],
+		"uniques" : ["[+100]% Strength <vs [Archery] units>", "[+2] Sight"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Maнул",
 		"unitType": "Civilian",
 		"uniqueTo": "Manuls RePublic",
