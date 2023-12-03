@@ -227,7 +227,7 @@
 		"upgradesTo": "Great War Infantry",
 		"uniques": [
                         "Can move after attacking", "May enter foreign tiles without open borders",
-			"[+1] Sight", "Unbuildable"],
+			"[+1] Sight"],
 		"movement": 4,
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
@@ -274,5 +274,20 @@
 			"Must set up to ranged attack","[+1] Sight", "Never appears as a Barbarian unit"],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "artillery"
-	}
+	},
+	{
+	        "name": "Кёксушип",
+		"unitType": "Ranged Water",
+		"replaces": "Battleship"
+		"uniqueTo": "Северная Республика"
+		"movement": 8,
+		"strength": 55,
+		"rangedStrength": 55,
+		"range": 3,
+		"cost": 200,
+		"requiredTech": "Electronics",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+                "attackSound": "shipguns"
+	}	
 ]
