@@ -63,8 +63,8 @@
 		"afterPeace": "Надеюсь этот мир продлится долго товарищ!",
 		"tradeRequest": "Мяу.",
 
-		"outerColor": [351,27,100],
-		"innerColor": [97,122,206],
+		"outerColor": [97,122,206],
+		"innerColor": [351,27,100],
 		"uniqueName": "Усердный пролетарий",
 		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
