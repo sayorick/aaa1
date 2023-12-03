@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Manuls RePublic",
+		"name": "Renewal RePublic",
 		"leaderName": "Мана Ре.",
 		"adjective": ["Манулы"],
 		"startBias": ["Tundra"],
@@ -43,7 +43,7 @@
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Мяу.",
-		"startIntroPart2": "Да начнётсякошачья история!",
+		"startIntroPart2": "Да начнётся кошачья история!",
 		
 		"declaringWar": "Мы освободим ваш народ от уз империализма!",
 		"attacked": "Ты это зря...",
