@@ -171,12 +171,11 @@
 		"hateNo": ["Никогда.","Нет!","Нет!"],
 		"hateYes": ["Подумаю. . .","Возможно...","Хорошо."],
 		
-		"afterPeace": "Мирное время пусть настанет!",
+		"afterPeace": "Мирное время, у нас пусть настанет!",
 		"tradeRequest": "Хм...",
 
 		"outerColor": [97,122,206],
-		"innerColor": [44,53,153],
-		"unique": "MANIFEST_DESTINY",
+		"innerColor": [66, 77, 99],
 		"uniqueName": "Мощь Аинза",
 		"uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+20]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Великая Гробница Назарик","Э-Рантэл","Момонга","Каталия","Фьёр","Канта-Токи","Даласки","Хартели","Вью",
