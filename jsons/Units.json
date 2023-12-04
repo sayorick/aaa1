@@ -359,5 +359,19 @@
 		"cost": 10,
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit",
-	}
+	},
+	{
+		"name": "Скелет-Лучник",
+		"unitType": "Archery",
+		"uniqueTo": "Колдовское Королевство"
+		"replaces": "Archer"
+		"movement": 2,
+		"strength": 2,
+		"rangedStrength": 9,
+		"cost": 20,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
 ]
