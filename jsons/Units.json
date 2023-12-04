@@ -374,4 +374,17 @@
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
+	{
+		"name": "g",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское Королевство"
+		"replaces": "Scout"
+		"movement": 2,
+		"strength": 5,
+		"cost": 100,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
 ]
