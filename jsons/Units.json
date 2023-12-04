@@ -375,16 +375,16 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "g",
+		"name": "Коцит",
 		"unitType": "Sword",
 		"uniqueTo": "Колдовское Королевство"
 		"replaces": "Scout"
-		"movement": 2,
-		"strength": 5,
+		"movement": 3,
+		"strength": 80,
 		"cost": 100,
-		"obsoleteTech": "Scientific Theory",
-		"uniques": ["May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+                "requiredResource": "Iron",
+		"uniques": ["Can move after attacking", "Limited to [1] per Civilization"],
 		"promotions": ["Ignore terrain cost"],
-		"attackSound": "nonmetalhit"
+		"attackSound": "metalhit"
 	},
 ]
