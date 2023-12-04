@@ -337,8 +337,8 @@
         {
 		"name": "Биг бум",
 		"unitType": "Missile",
-                "replaces": "Fighter"
-                "uniqueTo": "Nuclear Missile"
+                "replaces": "Nuclear Missile"
+                "uniqueTo": "Северная Республика"
 		"movement": 1,
 		"strength": 300,
 		"rangedStrength": 300,
@@ -348,5 +348,16 @@
 		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
 			"Blast radius [2]", "Consumes [2] [Uranium]"],
 		"attackSound": "nuke"
+	},
+	{
+		"name": "Зомби",
+		"unitType": "Sword",
+		"replaces": "Warrior"
+		"uniqueTo": "Колдовское Королевство"
+		"movement": 1,
+		"strength": 3,
+		"cost": 10,
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
 	}
 ]
