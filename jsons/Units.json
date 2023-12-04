@@ -238,25 +238,10 @@
 		"replaces": "Modern Armor",
 		"uniqueTo": "Renewal RePublic",
 		"movement": 3,
-		"strength": 200,
+		"strength": 300,
 		"cost": 1000,
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit", "Limited to [1] per Civilization"],
 		"attackSound": "gdrAttack"
-	},
-        {
-		"name": "Artillery",
-		"unitType": "Siege",
-		"movement": 2,
-		"strength": 21,
-		"rangedStrength": 28,
-		"range": 3,
-		"cost": 320,
-		"requiredTech": "Dynamite",
-		"upgradesTo": "Rocket Artillery",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-			"Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit"],
-		"promotions": ["Indirect Fire"],
-		"attackSound": "artillery"
 	},
 	{
 		"name": "Великая Северная Артилерия",
@@ -380,11 +365,25 @@
 		"uniqueTo": "Колдовское Королевство"
 		"replaces": "Scout"
 		"movement": 3,
-		"strength": 80,
-		"cost": 100,
+		"strength": 60,
+		"cost": 200,
                 "requiredResource": "Iron",
 		"uniques": ["Can move after attacking", "Limited to [1] per Civilization"],
-		"promotions": ["Ignore terrain cost"],
+		"promotions": ["Ignore terrain cost", "Accuracy I", "Quick Study"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Рыцарь смерти",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Колдовское Королевство",
+		"movement": 1,
+		"strength": 30,
+		"cost": 40,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"uniques": ["[+100]% Strength <vs [Sword] units>"],
 		"attackSound": "metalhit"
 	},
 ]
