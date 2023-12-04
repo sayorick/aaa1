@@ -50,7 +50,7 @@
 	{
 		"name": "Maнул",
 		"unitType": "Civilian",
-		"uniqueTo": "Manuls RePublic",
+		"uniqueTo": "Renewal RePublic",
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 75,
@@ -72,7 +72,7 @@
 	{
 		"name": "Манулий страж",
 		"unitType": "Mounted",
-		"uniqueTo": "Manuls RePublic",
+		"uniqueTo": "Renewal RePublic",
 		"replaces": "Knight",
 		"movement": 6,
 		"strength": 40,
@@ -88,7 +88,7 @@
 		"name": "Наёмный авантюрист",
 		"unitType": "Sword",
 		"replaces": "Swordsman",
-		"uniqueTo": "Manuls RePublic",
+		"uniqueTo": "Renewal RePublic",
 		"movement": 4,
 		"strength": 9,
 		"cost": 40,
@@ -101,7 +101,7 @@
 	{
 		"name": "Манул с мушкетом",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Manuls RePublic",
+		"uniqueTo": "Renewal RePublic",
 		"replaces": "Musketman",
 		"movement": 3,
 		"strength": 35,
@@ -114,7 +114,7 @@
 	{
 		"name": "Симп Маны",
 		"unitType": "Sword",
-		"uniqueTo": "Manuls RePublic",
+		"uniqueTo": "Renewal RePublic",
 		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 71,
@@ -126,7 +126,7 @@
 		"name": "Великий солдат Манул",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
-		"uniqueTo": "Manuls RePublic",
+		"uniqueTo": "Renewal RePublic",
 		"movement": 3,
 		"strength": 35,
 		"cost": 320,
