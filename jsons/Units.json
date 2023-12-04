@@ -386,4 +386,17 @@
 		"uniques": ["[+100]% Strength <vs [Sword] units>"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Лич",
+		"unitType": "Siege",
+		"replaces": "Cannon",
+		"uniqueTo": "Колдовское Королевство",
+		"movement": 3,
+		"strength": 7,
+		"rangedStrength": 50,
+		"cost": 125,
+		"requiredTech": "Chemistry",
+		"uniques": ["No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
+		"attackSound": "cannon"
+	},
 ]
