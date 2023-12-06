@@ -290,7 +290,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Лыжник с ПП",
+		"name": "Лыжники",
 		"unitType": "Ranged Gunpowder",
 		"replaces": "Machine Gun"
 		"uniqueTo": "Северная Республика"
@@ -300,6 +300,7 @@
 		"rangedStrength": 60,
 		"cost": 300,
 		"requiredTech": "Ballistics",
+		"uniques": ["[+125]% Strength <vs [Armored] units>"],
 		"upgradesTo": "Mechanized Infantry",
 		"attackSound": "machinegun"
 	},
@@ -410,8 +411,8 @@
 		"cost": 40
 	},
 	{
-		"name": "Horseman",
-		"unitType": "Sword",
+		"name": "Люпус Регина Бета",
+		"unitType": "Armored",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Horseman",
 		"movement": 4,
