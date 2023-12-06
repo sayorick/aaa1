@@ -453,7 +453,7 @@
 		"name": "Юри Альфа",
 		"unitType": "Sword",
 		"uniqueTo": "Колдовское королевство"
-		"replaces": "Longswordsman",
+		"replaces": "Crossbowman",
 		"movement": 7,
 		"strength": 47,
 		"cost": 150,
