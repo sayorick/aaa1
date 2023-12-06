@@ -21,5 +21,15 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
+	{
+		"name": "Архив",
+		"replaces": "Library"
+		"uniqueTo": "Северная Республика",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"happiness": 2
+		"uniques": ["[+2 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
 ]
