@@ -42,5 +42,18 @@
 		"production": 4,
 		"hurryCostModifier": 25,
 		"requiredTech": "The Wheel"
+	}, 
+	{
+		"name": "Кошачий завод",
+		"replaces": "Factory",
+		"uniqueTo": "КНСР",
+		"cost": 200,
+		"production": 10,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Industrialization"
 	}
 ]
