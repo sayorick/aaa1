@@ -435,5 +435,18 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Солюшн Эпсилон",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Longswordsman",
+		"movement": 5,
+		"strength": 77,
+		"cost": 140,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
 	}
 ]
