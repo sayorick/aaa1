@@ -409,4 +409,17 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 40
 	},
+	{
+		"name": "Horseman",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 80,
+		"cost": 100,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>" ],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
 ]
