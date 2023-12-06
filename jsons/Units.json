@@ -375,7 +375,7 @@
 	},
 	{
 		"name": "Рыцарь смерти",
-		"unitType": "Sword",
+		"unitType": "Armored",
 		"replaces": "Swordsman",
 		"uniqueTo": "Колдовское королевство",
 		"movement": 1,
@@ -412,12 +412,25 @@
 	},
 	{
 		"name": "Люпус Регина Бета",
-		"unitType": "Armored",
+		"unitType": "Sword",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 80,
 		"cost": 150,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Люпус Регина Бета",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Pikeman",
+		"movement": 4,
+		"strength": 85,
+		"cost": 155,
 		"requiredTech": "Horseback Riding",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
 		"hurryCostModifier": 20,
