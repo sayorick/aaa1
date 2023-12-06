@@ -338,7 +338,7 @@
 		"name": "Зомби",
 		"unitType": "Sword",
 		"replaces": "Warrior"
-		"uniqueTo": "Колдовское Королевство"
+		"uniqueTo": "Колдовское королевство"
 		"movement": 1,
 		"strength": 3,
 		"cost": 10,
@@ -348,7 +348,7 @@
 	{
 		"name": "Скелет-Лучник",
 		"unitType": "Archery",
-		"uniqueTo": "Колдовское Королевство"
+		"uniqueTo": "Колдовское королевство"
 		"replaces": "Archer"
 		"movement": 2,
 		"strength": 2,
@@ -362,7 +362,7 @@
 	{
 		"name": "Коцит",
 		"unitType": "Sword",
-		"uniqueTo": "Колдовское Королевство"
+		"uniqueTo": "Колдовское королевство"
 		"replaces": "Scout"
 		"movement": 3,
 		"strength": 60,
@@ -376,7 +376,7 @@
 		"name": "Рыцарь смерти",
 		"unitType": "Sword",
 		"replaces": "Swordsman",
-		"uniqueTo": "Колдовское Королевство",
+		"uniqueTo": "Колдовское королевство",
 		"movement": 1,
 		"strength": 30,
 		"cost": 40,
@@ -390,7 +390,7 @@
 		"name": "Лич",
 		"unitType": "Siege",
 		"replaces": "Cannon",
-		"uniqueTo": "Колдовское Королевство",
+		"uniqueTo": "Колдовское королевство",
 		"movement": 3,
 		"strength": 7,
 		"rangedStrength": 50,
