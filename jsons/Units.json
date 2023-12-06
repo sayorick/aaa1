@@ -399,4 +399,14 @@
 		"uniques": ["No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
+	{
+		"name": "Голем-рабочий",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Catapult",
+		"requiredTech": "Mathematics",
+		"movement": 4,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 40
+	},
 ]
