@@ -366,8 +366,8 @@
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Scout"
 		"movement": 3,
-		"strength": 60,
-		"cost": 200,
+		"strength": 120,
+		"cost": 250,
                 "requiredResource": "Iron",
 		"uniques": ["Can move after attacking", "Limited to [1] per Civilization"],
 		"promotions": ["Ignore terrain cost", "Accuracy I", "Quick Study"],
@@ -395,7 +395,7 @@
 		"movement": 3,
 		"strength": 7,
 		"rangedStrength": 50,
-		"cost": 125,
+		"cost": 80,
 		"requiredTech": "Chemistry",
 		"uniques": ["No defensive terrain bonus","Must set up to ranged attack","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
@@ -417,9 +417,9 @@
 		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 80,
-		"cost": 100,
+		"cost": 150,
 		"requiredTech": "Horseback Riding",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>" ],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
