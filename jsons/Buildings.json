@@ -32,4 +32,15 @@
 		"uniques": ["[+2 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
+	{
+		"name": "Совет старейших",
+		"replaces": "Water Mill"
+		"uniqueTo": "Северная Республика"
+		"gold": 2,
+		"science": 2,
+		"maintenance": 2,
+		"production": 4,
+		"hurryCostModifier": 25,
+		"requiredTech": "The Wheel"
+	}
 ]
