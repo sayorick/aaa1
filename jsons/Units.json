@@ -448,5 +448,18 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Юри Альфа",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Longswordsman",
+		"movement": 7,
+		"strength": 47,
+		"cost": 150,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
 	}
 ]
