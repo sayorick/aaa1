@@ -246,8 +246,8 @@
 		"afterPeace": "Пусть мир наш будет вечен.",
 		"tradeRequest": "Хорошо. . .",
 
-		"outerColor": [194,255,144],
-		"innerColor": [141,193,116],
+		"outerColor": [88,2,2],
+		"innerColor": [44,44,44],
 		"uniqueName": "Скорость-Наша сила!",
 		"uniques": ["[Great General] is earned [50]% faster", "[+2] Movement <for [Armored] units>"],
 		"cities": ["Берлин","Чань-Цзу","Ханьжоу","Чуй","Нанчин","Чипапчичи","Чухчух","Чань-Дэ","Чи",
