@@ -219,6 +219,41 @@
 			"Хуе","Хаи","Жоуч","Чзу","Чинде","Чачь"]
 	},
 	{
+		"name": "Кошачье Королевство",
+		"leaderName": "Катий I",
+		"adjective": ["Южные Неко"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Ня ня ня!!!",
+		"startIntroPart2": "ня ня!!",
+		
+		"declaringWar": "Нянрии!!!",
+		"attacked": "Не надо дядя!",
+		"defeated": "Неяяяяять!!!",
+		"introduction": "Ня!",
+		
+		"neutralHello": "Приветь:3",
+		"neutralLetsHearIt": ["Дя?","У?",":3"],
+		"neutralNo": ["Неть!","Нянь!","Нявозможно."],
+		"neutralYes": ["Дя.","Няшо.","Оки."],
+
+		"hateHello": ":<",
+		"hateLetsHearIt": ["?","?","?"],
+		"hateNo": ["Неть!","Нянь!","Нявозможно."],
+		"hateYes": ["Ладно.","Возможно. ","Хорошо."],
+		
+		"afterPeace": "Няяя!",
+		"tradeRequest": "ня",
+
+		"outerColor": [234,49,77],
+		"innerColor": [255,155,170],
+		"uniqueName": "Морские Няши.",
+		"uniques": ["[+2] Movement <for [Water] units>"],
+		"cities": ["Нямурск","Нянку","Лямурск","Капурск","Нява","Гога","Няфия","Вяскя","Мяскя",
+			"Фяскя","Нянфу","Фу-ти","Нянифуск"]
+	},
+	{
 		"name": "Империя",
 		"leaderName": "Каизер III",
 		"adjective": ["Народы Империи"],
