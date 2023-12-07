@@ -281,7 +281,7 @@
 		"replaces": "Landship"
 		"uniqueTo": "Северная Республика"
 		"movement": 8,
-		"strength": 64,
+		"strength": 50,
 		"cost": 300,
 		"requiredTech": "Combustion",
 		"upgradesTo": "Tank",
@@ -806,7 +806,7 @@
 		"uniqueTo": "Северная Республика"
 		"replaces": "Cavalry",
 		"movement": 5,
-		"strength": 64,
+		"strength": 44,
 		"cost": 205,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
