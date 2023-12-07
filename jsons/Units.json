@@ -573,7 +573,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus19",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Triplane",
@@ -585,7 +585,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus18",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Great War Bomber",
@@ -597,7 +597,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus17",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Artillery",
@@ -609,7 +609,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus16",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Submarine",
@@ -621,7 +621,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus15",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Great War Infantry",
@@ -633,7 +633,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus14",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Landship",
@@ -645,7 +645,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus13",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Machine Gun",
@@ -657,7 +657,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus12",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Anti-Aircraft Gun",
@@ -669,7 +669,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus11",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Fighter",
@@ -681,7 +681,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus10",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Bomber",
@@ -693,7 +693,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus9",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Paratrooper",
@@ -705,7 +705,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus8",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Tank",
@@ -717,7 +717,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus7",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Anti-Tank Gun",
@@ -729,7 +729,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus6",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Helicopter Gunship",
@@ -741,7 +741,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus5",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Rocket Artillery",
@@ -753,7 +753,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus4",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Modern Armor",
@@ -765,7 +765,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus3",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Jet Fighter",
@@ -777,7 +777,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus2",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Stealth Bomber",
@@ -789,7 +789,7 @@
 		"attackSound": "nuke"
 	},
 	{
-		"name": "Sus",
+		"name": "Sus1",
 		"unitType": "Siege",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Mechanized Infantry",
@@ -799,5 +799,5 @@
 		"cost": 15000,
 		"uniques": ["Cannot be purchased","Uncapturable"],
 		"attackSound": "nuke"
-	},
+	}
 ]
