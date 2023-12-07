@@ -281,7 +281,7 @@
 		"replaces": "Landship"
 		"uniqueTo": "Северная Республика"
 		"movement": 8,
-		"strength": 30,
+		"strength": 64,
 		"cost": 300,
 		"requiredTech": "Combustion",
 		"upgradesTo": "Tank",
@@ -799,5 +799,20 @@
 		"cost": 15000,
 		"uniques": ["Cannot be purchased","Uncapturable"],
 		"attackSound": "nuke"
+	},
+	{
+		"name": "Тачанка",
+		"unitType": "Mounted",
+		"uniqueTo": "Северная Республика"
+		"replaces": "Cavalry",
+		"movement": 5,
+		"strength": 64,
+		"cost": 205,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Landship",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","[+100]% Strength <vs [Sword] units>","[+100]% Strength <vs [Gunpowder] units>"],
+		"attackSound": "machinegun"
 	}
 ]
