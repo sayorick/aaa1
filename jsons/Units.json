@@ -461,5 +461,44 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
-	}
+	},
+	{
+		"name": "Энтома Василиса Дзета",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Composite Bowman",
+		"movement": 6,
+		"strength": 55,
+		"cost": 140,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Себас Тиан",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Spearman",
+		"movement": 5,
+		"strength": 110,
+		"cost": 225,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Сизу Дельта",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Knight",
+		"movement": 6,
+		"strength": 62,
+		"cost": 150,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-50]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"hurryCostModifier": 20,
+		"attackSound": "machinegun"
+	},
 ]
