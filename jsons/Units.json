@@ -510,7 +510,7 @@
 		"strength": 80,
 		"rangedStrength": 50,
 		"cost": 500,
-		"uniques": ["[+800]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[+1] Sight","Never appears as a Barbarian unit","Blast radius [2]","Nuclear weapon of Strength [1]"],
+		"uniques": ["[+800]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[+1] Sight","Never appears as a Barbarian unit","Blast radius [1]","Nuclear weapon of Strength [1]"],
 		"attackSound": "nuke"
 	},
 	{
@@ -521,9 +521,283 @@
 		"range": 2,
 		"movement": 4,
 		"strength": 100,
-		"rangedStrength": 70,
+		"rangedStrength": 100,
 		"cost": 500,
-		"uniques": ["[+500]% Strength <vs cities> <when attacking>","Can move after attacking"],
+		"uniques": ["Can move after attacking"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Гаргантюа",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+                "replaces": "Trireme",
+		"movement": 1,
+		"strength": 500,
+		"cost": 1000,
+		"attackSound": "nonmetalhit",
+	},
+	{
+		"name": "Шалти Бладфоллен",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Musketman",
+		"movement": 5,
+		"strength": 200,
+		"cost": 600,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-100]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Альбедо",
+		"unitType": "Sword",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Cavalry",
+		"movement": 5,
+		"strength": 300,
+		"cost": 800,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-100]% Strength <vs cities> <when attacking>","Limited to [1] per Civilization" ],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Аура Белло и Маре Белла Фиоре",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Gatling Gun",
+		"movement": 10,
+		"strength": 1000,
+		"rangedStrength": 100,
+		"cost": 1500,
+		"uniques": ["No defensive terrain bonus","Must set up to ranged attack","[+3] Sight","Never appears as a Barbarian unit","Blast radius [2]","Nuclear weapon of Strength [1]"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Triplane",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Great War Bomber",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Artillery",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Submarine",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Great War Infantry",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Landship",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Machine Gun",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Anti-Aircraft Gun",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Fighter",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Bomber",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Paratrooper",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Tank",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Anti-Tank Gun",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Helicopter Gunship",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Rocket Artillery",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Modern Armor",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Jet Fighter",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Stealth Bomber",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
+	},
+	{
+		"name": "Sus",
+		"unitType": "Siege",
+		"uniqueTo": "Колдовское королевство"
+		"replaces": "Mechanized Infantry",
+		"movement": 1,
+		"strength": 1,
+		"rangedStrength": 1,
+		"cost": 15000,
+		"uniques": ["Cannot be purchased","Uncapturable"],
+		"attackSound": "nuke"
 	},
 ]
