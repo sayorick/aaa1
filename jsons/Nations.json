@@ -181,5 +181,42 @@
 		"uniques": ["[+50]% Golden Age length", "[+1] Movement <for [All] units> <during a Golden Age>", "[+20]% Strength <for [All] units> <during a Golden Age>"],
 		"cities": ["Великая Гробница Назарик","Э-Рантэл","Момонга","Каталия","Фьёр","Канта-Токи","Даласки","Хартели","Вью",
 			"Хаски","Нолька","Писания","Ролл-Ри","Лакалия","Сания","Бьёр","Кара","Наньёния","Камьень"]
-	}
+	},
+	{
+		"name": "Чухуйская империя",
+		"leaderName": "Чао-Цдун II",
+		"adjective": ["Чухуйцы"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Чинь",
+		"startIntroPart2": "Чань Чонь Чинь",
+		
+		"declaringWar": "Мы вас уничтожим!",
+		"attacked": "Не недооценивай противника.",
+		"defeated": "Мы проиграли эту войну!",
+		"introduction": "Чинь Чонь!",
+		
+		"neutralHello": "Приветствую вас.",
+		"neutralLetsHearIt": ["Слушаю.","Хммм...","Чинь."],
+		"neutralNo": ["Никогда!","Нет, нет!","Невозможно."],
+		"neutralYes": ["Да.","Хорошо.","Конечно."],
+
+		"hateHello": "Зачем вы пришли сюда?",
+		"hateLetsHearIt": ["...","Ну...","Быстрее говори!"],
+		"hateNo": ["Никогда!","Нет, нет!","Пошёл вон!"],
+		"hateYes": ["Ладно.","Возможно. ","Хорошо."],
+		
+		"afterPeace": "Пусть мир наш будет вечен.",
+		"tradeRequest": "Хорошо. . .",
+
+		"outerColor": [255,255,255],
+		"innerColor": [38, 98, 255],
+		"uniqueName": "Наша Империя",
+		"uniques": ["[Great General] is earned [50]% faster", "[+1] Movement <for [Water] units>", "[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
+		"cities": ["Атланта","Гётимберг","Флаун","Сноуляндия","Оулу","Манаберг","Мальмё","Уппсала","Фёньё",
+			"Белогорад","Кёкун","Шотабург","Кайзерлиен","Истёд","Раума","Эсппё","Хельсинск","Вантаа","Лахти",
+			"Кётинбург","Акора","Пори","Порвоо","То","Задляндия"]
+		"spyNames": ["Джон Сноу", "Штирлиц", "Олуман", "Саки Полка", "Фамилия", "Тор", "Кляйнер", "Шошки", "Наташа", "Нямур"]
+	},
 ]
