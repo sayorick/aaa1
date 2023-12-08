@@ -63,8 +63,8 @@
 		"afterPeace": "Надеюсь этот мир продлится долго товарищ!",
 		"tradeRequest": "Мяу.",
 
-		"outerColor": [85, 175,234],
-		"innerColor": [255,176,176],
+		"outerColor": [255,176,176],
+		"innerColor": [255,187,187],
 		"uniqueName": "Усердный пролетарий",
 		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
@@ -101,8 +101,8 @@
 		"afterPeace": "Всё, навоевались!",
 		"tradeRequest": ":<",
 
-		"outerColor": [124,183,255],
-		"innerColor": [255,255,255],
+		"outerColor": [255,58,58],
+		"innerColor": [124,183,255],
 		"uniqueName": "Вечный холод",
 		"uniques": ["[Great General] is earned [50]% faster", "[+1] Movement <for [Water] units>", "[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
 		"cities": ["Атланта","Гётимберг","Флаун","Сноуляндия","Оулу","Манаберг","Мальмё","Уппсала","Фёньё",
