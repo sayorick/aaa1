@@ -15,24 +15,6 @@
 		"attackSound": "phasers"
 	},
 	{
-		"name": "Пролетарий",
-		"unitType": "Civilian",
-		"uniqueTo": "КНСР"
-		"replaces": "Worker",
-		"movement": 3,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 40
-	},
-	{
-		"name": "Рабочий Севера",
-		"unitType": "Civilian",
-		"uniqueTo": "Северная Республика"
-		"replaces": "Worker",
-		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 20
-	},
-	{
 		"name": "Кочевник",
 		"unitType": "Scout",
 		"replaces": "Archer",
