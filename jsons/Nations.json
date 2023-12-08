@@ -102,7 +102,7 @@
 		"tradeRequest": ":<",
 
 		"outerColor": [217,22,22],
-		"innerColor": [55,144,232],
+		"innerColor": [117,190,255],
 		"uniqueName": "Вечный холод",
 		"uniques": ["[Great General] is earned [50]% faster", "[+1] Movement <for [Water] units>", "[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
 		"cities": ["Атланта","Гётимберг","Флаун","Сноуляндия","Оулу","Манаберг","Мальмё","Уппсала","Фёньё",
