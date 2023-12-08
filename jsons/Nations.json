@@ -316,8 +316,8 @@
 		"afterPeace": "Пусть мир наш будет вечен.",
 		"tradeRequest": "Хорошо. . .",
 
-		"outerColor": [88,2,2],
-		"innerColor": [44,44,44],
+		"outerColor": [45,45,45],
+		"innerColor": [199,177,38],
 		"uniqueName": "Дварфы",
 		"uniques": ["[+2 Production] from every [Strategic resource]","Double quantity of [Iron] produced"],
 		"cities": ["Сатьгорн","Рокмайн","Стоун","Дарак","Айрон","Копперг","Мифрин","Стилхенд","Голденд",
