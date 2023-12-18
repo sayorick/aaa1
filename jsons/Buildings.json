@@ -54,5 +54,25 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
-	}
+	},
+	{
+		"name": "Чистня",
+		"replaces": "Library"
+		"uniqueTo": "Чихуй",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+2 Science] per [1] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+        {
+		"name": "Домик для Неко",
+		"replaces": "Library"
+		"uniqueTo": "КНСР",
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"happiness": 5
+		"uniques": ["[+1 Science] per [1] population [in this city]"],
+		"requiredTech": "The Wheel"
+	},
+
 ]
