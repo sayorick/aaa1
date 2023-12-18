@@ -18,7 +18,7 @@
 		"name": "Кочевник",
 		"unitType": "Scout",
 		"replaces": "Archer",
-		"uniqueTo": "Северная Республика",
+		"uniqueTo": "Северное Государство",
 		"movement": 3,
 		"strength": 12,
 		"cost": 55,
@@ -185,7 +185,7 @@
 	{
 		"name": "Северный Полярник",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Северная Республика",
+		"uniqueTo": "Северное Государство",
 		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 45,
@@ -201,7 +201,7 @@
 		"name": "Партизан",
 		"unitType": "Gunpowder",
 		"replaces": "Swordsman",
-		"uniqueTo": "Северная Республика",
+		"uniqueTo": "Северное Государство",
 		"movement": 2,
 		"strength": 6,
 		"cost": 100,
@@ -229,7 +229,7 @@
 		"name": "Великая Северная Артилерия",
 		"unitType": "Siege",
 		"replaces": "Artillery"
-		"uniqueTo": "Северная Республика"
+		"uniqueTo": "Северное Государство"
 		"movement": 2,
 		"strength": 31,
 		"rangedStrength": 68,
@@ -246,7 +246,7 @@
 	        "name": "Кёксушип",
 		"unitType": "Ranged Water",
 		"replaces": "Battleship"
-		"uniqueTo": "Северная Республика"
+		"uniqueTo": "Северное Государство"
 		"movement": 8,
 		"strength": 55,
 		"rangedStrength": 55,
@@ -261,7 +261,7 @@
 		"name": "Сису",
 		"unitType": "Armored",
 		"replaces": "Landship"
-		"uniqueTo": "Северная Республика"
+		"uniqueTo": "Северное Государство"
 		"movement": 8,
 		"strength": 50,
 		"cost": 300,
@@ -275,7 +275,7 @@
 		"name": "Лыжники",
 		"unitType": "Ranged Gunpowder",
 		"replaces": "Machine Gun"
-		"uniqueTo": "Северная Республика"
+		"uniqueTo": "Северное Государство"
 		"range": 1,
 		"movement": 5,
 		"strength": 40,
@@ -290,7 +290,7 @@
 		"name": "Taistelija",
 		"unitType": "Fighter",
 		"replaces": "Fighter"
-		"uniqueTo": "Северная Республика"
+		"uniqueTo": "Северное Государство"
 		"movement": 3,
 		"strength": 45,
 		"rangedStrength": 45,
@@ -306,7 +306,7 @@
 		"name": "Биг бум",
 		"unitType": "Missile",
                 "replaces": "Nuclear Missile"
-                "uniqueTo": "Северная Республика"
+                "uniqueTo": "Северное Государство"
 		"movement": 1,
 		"strength": 300,
 		"rangedStrength": 300,
@@ -785,7 +785,7 @@
 	{
 		"name": "Тачанка",
 		"unitType": "Mounted",
-		"uniqueTo": "Северная Республика"
+		"uniqueTo": "Северное Государство"
 		"replaces": "Cavalry",
 		"movement": 5,
 		"strength": 44,
