@@ -808,4 +808,35 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
+	{
+		"name": "Святой мечник",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Слейн"
+		"movement": 2,
+		"strength": 16,
+		"cost": 50,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"uniques": ["May enter foreign tiles without open borders", "Religious Unit", "Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>"]
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Чёрный Рыцарь",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Бахарут"
+		"movement": 4,
+		"strength": 32,
+		"cost": 100,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-10]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
+	}
 ]
