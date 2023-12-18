@@ -101,7 +101,7 @@
 		"afterPeace": "Всё, навоевались!",
 		"tradeRequest": ":<",
 
-		"outerColor": [0,0,0],
+		"outerColor": [255,255,255],
 		"innerColor": [117,190,255],
 		"uniqueName": "Вечный холод",
 		"uniques": ["[Great General] is earned [50]% faster", "[+1] Movement <for [Water] units>", "[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital"],
