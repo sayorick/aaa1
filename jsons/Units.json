@@ -796,5 +796,16 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit","[+100]% Strength <vs [Sword] units>","[+100]% Strength <vs [Gunpowder] units>"],
 		"attackSound": "machinegun"
-	}
+	},
+	{
+		"name": "Селенец",
+		"unitType": "Civilian",
+		"replaces": "Settler",
+		"uniqueTo": "Колдовское королевство"
+		"movement": 4,
+		"cost": 700,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+		"hurryCostModifier": 20
+	},
 ]
