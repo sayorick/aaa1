@@ -281,7 +281,7 @@
 		"afterPeace": "Пусть мир наш будет вечен.",
 		"tradeRequest": "Хорошо. . .",
 
-		"outerColor": [88,2,2],
+		"outerColor": [133,0,0],
 		"innerColor": [44,44,44],
 		"uniqueName": "Скорость-Наша сила!",
 		"uniques": ["[Great General] is earned [100]% faster", "[+2] Movement <for [Armored] units>"],
