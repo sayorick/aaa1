@@ -24,7 +24,7 @@
 	},
 	{
 		"name": "Архив",
-		"replaces": "Library"
+		"replaces": "Library",
 		"uniqueTo": "Северная Республика",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -34,9 +34,9 @@
 	},
 	{
 		"name": "Совет старейших",
-		"replaces": "Water Mill"
-		"uniqueTo": "Северная Республика"
-		"gold": 2,
+		"replaces": "Water Mill",
+		"uniqueTo": "Северная Республика",
+		"gold": 5,
 		"maintenance": 2,
 		"production": 4,
 		"hurryCostModifier": 25,
@@ -57,7 +57,7 @@
 	},
 	{
 		"name": "Чистня",
-		"replaces": "Library"
+		"replaces": "Library",
 		"uniqueTo": "Чихуй",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -66,13 +66,48 @@
 	},
         {
 		"name": "Домик для Неко",
-		"replaces": "Library"
+		"replaces": "Library",
 		"uniqueTo": "КНСР",
 		"hurryCostModifier": 10,
+                "production": 1,
 		"maintenance": 2,
 		"happiness": 5
 		"uniques": ["[+1 Science] per [1] population [in this city]"],
 		"requiredTech": "The Wheel"
 	},
-
+	{
+		"name": "Статуя Неко",
+		"replaces": "Monument",
+		"uniqueTo": "КНСР",
+         	"happiness": 2
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Военная академия",
+		"replaces": "University",
+		"uniqueTo": "Империя",
+		"production": 4,
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+3 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Пивная",
+		"replaces": "Windmill"
+		"uniqueTo": "Империя",
+		"production": 4,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["Must not be on [Hill]", "[+25]% Production when constructing [All] buildings [in this city]"],
+		"requiredTech": "Economics"
+	},
 ]
