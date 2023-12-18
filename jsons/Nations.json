@@ -64,7 +64,7 @@
 		"tradeRequest": "Мяу.",
 
 		"outerColor": [255,176,176],
-		"innerColor": [255,187,187],
+		"innerColor": [121,237,255],
 		"uniqueName": "Усердный пролетарий",
 		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
@@ -74,7 +74,7 @@
 		"spyNames": ["Някс", "Котиков", "Нялекс", "Курва", "Имя", "Мямв", "Гордон", "Микаил", "Таша", "Няшкин"]
 	},
 	{
-		"name": "Северная Республика",
+		"name": "Северное Государство",
 		"leaderName": "Сайо",
 		"adjective": ["Норды"],
 		"startBias": ["Snow"],
@@ -183,7 +183,7 @@
 			"Хаски","Нолька","Писания","Ролл-Ри","Лакалия","Сания","Бьёр","Кара","Наньёния","Камьень"]
 	},
 	{
-		"name": "Чухуйская империя",
+		"name": "Чухуй",
 		"leaderName": "Чао-Цдун II",
 		"adjective": ["Чухуйцы"],
 		"startBias": ["Snow"],
@@ -219,7 +219,7 @@
 			"Хуе","Хаи","Жоуч","Чзу","Чинде","Чачь"]
 	},
 	{
-		"name": "Кошачье Королевство",
+		"name": "Кошачье Государство",
 		"leaderName": "Катий I",
 		"adjective": ["Южные Неко"],
 		"startBias": ["Snow"],
