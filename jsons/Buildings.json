@@ -25,7 +25,7 @@
 	{
 		"name": "Архив",
 		"replaces": "Library",
-		"uniqueTo": "Северная Республика",
+		"uniqueTo": "Северное Государство",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"happiness": 2
@@ -36,7 +36,7 @@
 	{
 		"name": "Совет старейших",
 		"replaces": "Water Mill",
-		"uniqueTo": "Северная Республика",
+		"uniqueTo": "Северное Государство",
 		"gold": 5,
 		"maintenance": 2,
 		"production": 4,
