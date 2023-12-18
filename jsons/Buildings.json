@@ -29,7 +29,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"happiness": 2
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"uniques": ["[+3 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -37,7 +37,6 @@
 		"replaces": "Water Mill"
 		"uniqueTo": "Северная Республика"
 		"gold": 2,
-		"science": 1,
 		"maintenance": 2,
 		"production": 4,
 		"hurryCostModifier": 25,
