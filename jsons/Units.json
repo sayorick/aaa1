@@ -838,5 +838,17 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-10]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
-	}
+	},
+	{
+		"name": "Римуру Тэмпест",
+		"unitType": "Sword",
+		"uniqueTo": "Союз Джура Тэмпест"
+		"replaces": "Knight",
+		"movement": 6,
+		"strength": 400,
+		"cost": 1000,
+		"requiredTech": "Horseback Riding",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Limited to [1] per Civilization" ],
+		"attackSound": "nuke"
+	},
 ]
