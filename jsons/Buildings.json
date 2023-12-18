@@ -29,6 +29,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"happiness": 2
+		"science": 1,
 		"uniques": ["[+3 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
@@ -81,6 +82,7 @@
 		"uniqueTo": "КНСР",
          	"happiness": 2
 		"culture": 2,
+		"science": 1,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
@@ -109,5 +111,19 @@
 		"maintenance": 2,
 		"uniques": ["Must not be on [Hill]", "[+25]% Production when constructing [All] buildings [in this city]"],
 		"requiredTech": "Economics"
+	},
+	{
+		"name": "Северная Школа",
+		"replaces": "University",
+		"uniqueTo": "Северное Государство",
+		"production": 2,
+		"maintenance": 2,
+		"science": 3,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+3 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
 	},
 ]
