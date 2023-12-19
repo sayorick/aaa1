@@ -215,7 +215,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Мана Ренью",
+		"name": "ManaRe",
 		"unitType": "Sword",
 		"replaces": "Modern Armor",
 		"uniqueTo": "Renewal RePublic",
