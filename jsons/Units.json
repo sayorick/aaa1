@@ -26,7 +26,7 @@
 		"obsoleteTech": "Civil Service",
 		"obsoleteTech": "Metal Casting",
 		"promotions": ["Ignore terrain cost"],
-		"uniques" : ["[+100]% Strength <vs [Archery] units>", "[+2] Sight"],
+		"uniques" : ["[+100]% Strength <vs [Archery] units>", "[+2] Sight","[+1000]% Strength <vs cities> <when attacking>"],
 		"attackSound": "nonmetalhit"
 	},
 	{
