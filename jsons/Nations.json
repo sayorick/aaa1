@@ -64,7 +64,7 @@
 		"tradeRequest": "Мяу.",
 
 		"outerColor": [255,176,176],
-		"innerColor": [121,237,255],
+		"innerColor": [187,181,0],
 		"uniqueName": "Усердный пролетарий",
 		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
 			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
