@@ -329,7 +329,7 @@
 		"attackSound": "nonmetalhit",
 	},
 	{
-		"name": "Скелет-Лучник",
+		"name": "Skeleton",
 		"unitType": "Archery",
 		"uniqueTo": "Колдовское королевство"
 		"replaces": "Archer"
