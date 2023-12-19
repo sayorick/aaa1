@@ -24,3 +24,17 @@ TileSets/AbsoluteUnits/Units/Musketmanul
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Riflemanul
+  rotate: false
+  xy: 195, 0
+  size: 64, 64
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/ManaRe
+  rotate: false
+  xy: 260, 0
+  size: 64, 64
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
