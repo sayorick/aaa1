@@ -7,7 +7,7 @@ TileSets/AbsoluteUnits/Units/Simp
   rotate: false
   xy: 0, 936
   size: 64, 64
-  orig: 64, 56
+  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Manul
@@ -28,13 +28,13 @@ TileSets/AbsoluteUnits/Units/Riflemanul
   rotate: false
   xy: 189, 936
   size: 64, 64
-  orig: 64, 56
+  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/ManaRe
   rotate: false
   xy: 254, 936
   size: 64, 64
-  orig: 64, 56
+  orig: 95, 81
   offset: 0, 0
   index: -1
