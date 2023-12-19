@@ -30,7 +30,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Manul",
+		"name": "Манул",
 		"unitType": "Civilian",
 		"uniqueTo": "Renewal RePublic",
 		"replaces": "Settler",
