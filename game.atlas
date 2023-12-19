@@ -5,42 +5,42 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Simp
   rotate: false
-  xy: 0, 936
+  xy: 0, 0
   size: 64, 64
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Manul
   rotate: false
-  xy: 64, 936
+  xy: 64, 0
   size: 64, 64
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Musketmanul
   rotate: false
-  xy: 128, 936
+  xy: 128, 0
   size: 64, 64
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Riflemanul
   rotate: false
-  xy: 189, 936
+  xy: 189, 0
   size: 64, 64
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/ManaRe
   rotate: false
-  xy: 254, 936
+  xy: 254, 0
   size: 64, 64
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Skeleton
   rotate: false
-  xy: 318, 936
+  xy: 318, 0
   size: 64, 64
   orig: 95, 81
   offset: 0, 0
