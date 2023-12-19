@@ -30,7 +30,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Манул",
+		"name": "Manul",
 		"unitType": "Civilian",
 		"uniqueTo": "Renewal RePublic",
 		"replaces": "Settler",
@@ -81,7 +81,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Манул с мушкетом",
+		"name": "Musketmanul",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Renewal RePublic",
 		"replaces": "Musketman",
@@ -94,7 +94,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Симп Маны",
+		"name": "Simp",
 		"unitType": "Sword",
 		"uniqueTo": "Renewal RePublic",
 		"replaces": "Rifleman",
@@ -105,7 +105,7 @@
 		"attackSound": "gdrAttack"
 	},
 	{
-		"name": "Великий солдат Манул",
+		"name": "Riflemanul",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Renewal RePublic",
