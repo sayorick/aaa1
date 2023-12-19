@@ -12,28 +12,28 @@ TileSets/AbsoluteUnits/Units/Simp
   index: -1
 TileSets/AbsoluteUnits/Units/Manul
   rotate: false
-  xy: 65, 0
+  xy: 64, 0
   size: 64, 64
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Musketmanul
   rotate: false
-  xy: 130, 0
+  xy: 128, 0
   size: 64, 64
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Riflemanul
   rotate: false
-  xy: 195, 0
+  xy: 189, 0
   size: 64, 64
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/ManaRe
   rotate: false
-  xy: 260, 0
+  xy: 254, 0
   size: 64, 64
   orig: 64, 56
   offset: 0, 0
