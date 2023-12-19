@@ -38,3 +38,10 @@ TileSets/AbsoluteUnits/Units/ManaRe
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Skeleton
+  rotate: false
+  xy: 318, 936
+  size: 64, 64
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
