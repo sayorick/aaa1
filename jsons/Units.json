@@ -19,12 +19,10 @@
 		"unitType": "Scout",
 		"replaces": "Archer",
 		"uniqueTo": "Северное Государство",
-		"movement": 3,
+		"movement": 10,
 		"strength": 12,
 		"cost": 55,
 		"requiredTech": "Trapping",
-		"obsoleteTech": "Civil Service",
-		"obsoleteTech": "Metal Casting",
 		"promotions": ["Ignore terrain cost"],
 		"uniques" : ["[+100]% Strength <vs [Archery] units>", "[+2] Sight","[+1000]% Strength <vs cities> <when attacking>"],
 		"attackSound": "nonmetalhit"
