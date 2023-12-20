@@ -52,6 +52,7 @@
 		"percentStatBonus": {"production": 10},
 		"specialistSlots": {"Engineer": 2},
 		"requiredBuilding": "Workshop",
+		"science": 3,
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"requiredTech": "Industrialization"
@@ -116,7 +117,7 @@
 		"name": "Северная Школа",
 		"replaces": "University",
 		"uniqueTo": "Северное Государство",
-		"production": 2,
+		"production": 5,
 		"maintenance": 2,
 		"science": 3,
 		"hurryCostModifier": 15,
