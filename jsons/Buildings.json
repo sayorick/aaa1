@@ -29,8 +29,8 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"happiness": 2
-		"science": 1,
-		"uniques": ["[+3 Science] per [2] population [in this city]"],
+		"science": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -98,7 +98,7 @@
 		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 2},
 		"requiredBuilding": "Library",
-		"uniques": ["[+3 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+3 Science] from [Jungle] tiles [in this city]", "[+2 Science] per [2] population [in this city]"],
 		"requiredTech": "Education"
 	},
 	{
